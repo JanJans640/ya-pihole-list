@@ -28,7 +28,16 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://urlhaus.abuse.ch/downloads/hostfile/
 # osint.digitalside.it malicious domains + malware
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Ads, Mobile Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking and some Telemetry, Analytics, Tracking
-https://big.oisd.nl/
+# Added:
 # Script to add YouTube Ads DNS to Pi-hole black list
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+# hagezi / dns-blocklists
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/pro.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/fake.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/popupads.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/tif.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds-adblock.txt
+#
+# Removed:
+# Ads, Mobile Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking and some Telemetry, Analytics, Tracking
+# https://big.oisd.nl/
